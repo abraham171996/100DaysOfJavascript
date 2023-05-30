@@ -8,3 +8,4 @@ feat:add new js task name is tip calculator day 7
 feat:add new js task name is weight converter day 8
 feat:add new task name is click to tweet day 8
 feat:add new js task name is password visibility day 9
+feat:add new js task name is vertical tabs day 10
