@@ -13,3 +13,4 @@ feat:add new js task name is animated login form day 11
 feat:add new js tasks name is dark and light mode day 12
 feat:add new js task name is pixel art generator day 13
 feat:add new js task name is countdown new year day 14
+feat:add new js task name is rich text editor day 15
