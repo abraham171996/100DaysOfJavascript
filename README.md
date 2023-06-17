@@ -17,3 +17,4 @@ feat:add new js task name is rich text editor day 15
 feat: add new js task name is pass generator day 16
 feat:add new js task name is qr code generator day 17
 feat:add new js task name is detect device battarey day 18
+feat:add new js task name is xo game day 19
