@@ -86,3 +86,7 @@ button.reset {
 button.add {
   background-color: green;
 }
+.copy{
+  background-color: #fff;
+  color: black !important;
+}
